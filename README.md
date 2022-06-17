@@ -1,6 +1,3 @@
-# dasafio-github-santander
-Repositória criado para desafio de projeto do Santander.
+# Santander BootCamp
+Repositória criado para o BootCamp Santander.
 
-##Link Úteis
-
-[Sintaxe Básica MarkDown(.md)](https://www.markdownguide.org/basic-syntax/)
